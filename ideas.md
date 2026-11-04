@@ -33,3 +33,5 @@ Base: Open Food Facts (ODbL).
 Enrichment: World Bank or WHO obesity and health indicators.
 Key: ISO country code.
 Hypothesis: products sold in countries with higher obesity rates have higher sugar content.
+
+7.KI und Arbeitslosigkeit	Gibt es einen Zusammenhang zwischen der Verbreitung von KI und der Arbeitslosenquote?	Länder mit einer höheren KI-Nutzungsquote weisen eine niedrigere Arbeitslosenquote auf.
