@@ -28,10 +28,22 @@ Enrichment: Wikipedia or Wikidata for genre and chart data.
 Key: recording or artist ID.
 Hypothesis: average track length fell over the streaming era. 
 
-6.Sugar, salt and Nutri-Score around the world. 
+6. Sugar, salt and Nutri-Score around the world. 
 Base: Open Food Facts (ODbL).
 Enrichment: World Bank or WHO obesity and health indicators.
 Key: ISO country code.
 Hypothesis: products sold in countries with higher obesity rates have higher sugar content.
 
-7.KI und Arbeitslosigkeit	Gibt es einen Zusammenhang zwischen der Verbreitung von KI und der Arbeitslosenquote?	Länder mit einer höheren KI-Nutzungsquote weisen eine niedrigere Arbeitslosenquote auf.
+7. KI und Arbeitslosigkeit	Gibt es einen Zusammenhang zwischen der Verbreitung von KI und der Arbeitslosenquote?	Länder mit einer höheren KI-Nutzungsquote weisen eine niedrigere Arbeitslosenquote auf.
+   
+8.  AI and electricity.
+Base: Our World in Data electricity mix or SMARD data.
+Enrichment: data centre locations from OpenStreetMap or Wikidata.
+Key: country or region.
+Hypothesis: regions with many data centres show higher electricity demand growth. Be careful with causal claims here, which is a good limitation to discuss in Q&A.
+
+9. Do model releases move GitHub?
+Base: GitHub API stars and commits of major AI repositories.
+Enrichment: release dates of models, scraped from Wikipedia.
+Key: repository and date.
+Hypothesis: star growth spikes in the weeks after major releases.
