@@ -47,7 +47,7 @@ Enrichment: Box Office Records, IMDB/RT/Letterboxd scores, Academy Awards nomine
 Hypothesis: Has the cinema landscape changed? Do Big Names and Budgets still matter as much as they used to? Can small movies find success? Have our Movie Habits changed?
 
    Databases:
-   Box Office Records: https://www.boxofficemojo.com/
-   Ratingboards: https://www.imdb.com/ | https://www.rottentomatoes.com/ | https://letterboxd.com/
-   Movie Database: https://www.themoviedb.org/ | https://www.ofdb.de/
+   Box Office Records: https://www.boxofficemojo.com/  
+   Ratingboards: https://www.imdb.com/ | https://www.rottentomatoes.com/ | https://letterboxd.com/  
+   Movie Database: https://www.themoviedb.org/ | https://www.ofdb.de/  
    
