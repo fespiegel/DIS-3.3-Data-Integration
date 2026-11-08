@@ -51,3 +51,5 @@ Hypothesis: star growth spikes in the weeks after major releases.
 10. Internet access vs. press freedom: Base: World Bank. Enrichment: scraped Freedom House or Reporters Without Borders scores.
 
 11. Housing and rents: Base: Destatis or Eurostat. Enrichment: scraped city data (students, tourism).
+
+12. Movies: Ratings vs. budget, genre or release month (IMDb non-commercial datasets plus Wikipedia box-office lists).
