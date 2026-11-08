@@ -2,9 +2,9 @@
 
 1. Spring is arriving earlier, and plants and birds follow the temperature.
 Base: DWD phenology data (first bloom dates of plants) and GBIF observations of swifts and cuckoos (first sightings).
-Enrichment: DWD temperature (March-April mean).
-Key: region (federal state or natural region) and year.
-Hypothesis: the start of spring has shifted over decades, and first bird sightings shift with spring temperature.
+Enrichment: DWD temperature (March-April mean).  
+Key: region (federal state or natural region) and year.  
+Hypothesis: the start of spring has shifted over decades, and first bird sightings shift with spring temperature.  
 
    Datanases:  
    DWD https://dwd-geoportal.de/ | https://opendata.dwd.de/  
