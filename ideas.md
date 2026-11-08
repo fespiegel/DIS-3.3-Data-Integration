@@ -24,18 +24,22 @@ Hypothesis: wind, fog and snow explain most delays.
    Euro Control (Flight Data) https://www.eurocontrol.int/ | https://aiu-airport-dashboard.netlify.app/edde#turnaround-times  
    DWD https://dwd-geoportal.de/ | https://opendata.dwd.de/  
 
-4. Are songs getting shorter? 
-Base: MusicBrainz (CC0) for track lengths and release years.
-Enrichment: Wikipedia or Wikidata for genre and chart data.
-Key: recording or artist ID.
-Hypothesis: average track length fell over the streaming era. 
+4. How does the everchanging political climate influence our music listening habits?  
+Base: Spotify (or any other streaming service) Charts, election results   
+Enrichment: recent local music releases (Streaming Services), historic context (wikipedia)  
+Hypothesis: The changing political climate has a big influence on what local music we listen to, as music is one of humanity's oldest forms of social commentary.  
 
-5. KI und Arbeitslosigkeit	Gibt es einen Zusammenhang zwischen der Verbreitung von KI und der Arbeitslosenquote?	Länder mit einer höheren KI-Nutzungsquote weisen eine niedrigere Arbeitslosenquote auf.
+   Databases:  
+   Spotify Charts https://charts.spotify.com/  
+   Democratic Index https://ourworldindata.org/grapher/electoral-democracy-index  
+   Govdata Election results https://www.govdata.de/  
+
+6. KI und Arbeitslosigkeit	Gibt es einen Zusammenhang zwischen der Verbreitung von KI und der Arbeitslosenquote?	Länder mit einer höheren KI-Nutzungsquote weisen eine niedrigere Arbeitslosenquote auf.
    
-6.  AI and electricity.
+7.  AI and electricity.
 Base: Our World in Data electricity mix or SMARD data.
 Enrichment: data centre locations from OpenStreetMap or Wikidata.
 Key: country or region.
 Hypothesis: regions with many data centres show higher electricity demand growth. Be careful with causal claims here, which is a good limitation to discuss in Q&A.
 
-7. Movies: Ratings vs. budget, genre or release month (IMDb non-commercial datasets plus Wikipedia box-office lists).
+8. Movies: Ratings vs. budget, genre or release month (IMDb non-commercial datasets plus Wikipedia box-office lists).
