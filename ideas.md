@@ -46,7 +46,7 @@ Hypothesis: regions with many data centres show higher electricity demand growth
 Enrichment: Box Office Records, IMDB/RT/Letterboxd scores, Academy Awards nominees
 Hypothesis: Has the cinema landscape changed? Do Big Names and Budgets still matter as much as they used to? Can small movies find success? Have our Movie Habits changed?
 
-   Databases:
+   Databases:  
    Box Office Records: https://www.boxofficemojo.com/  
    Ratingboards: https://www.imdb.com/ | https://www.rottentomatoes.com/ | https://letterboxd.com/  
    Movie Database: https://www.themoviedb.org/ | https://www.ofdb.de/  
