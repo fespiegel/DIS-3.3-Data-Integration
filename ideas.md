@@ -47,3 +47,7 @@ Base: GitHub API stars and commits of major AI repositories.
 Enrichment: release dates of models, scraped from Wikipedia.
 Key: repository and date.
 Hypothesis: star growth spikes in the weeks after major releases.
+
+10. Internet access vs. press freedom: Base: World Bank. Enrichment: scraped Freedom House or Reporters Without Borders scores.
+
+11. Housing and rents: Base: Destatis or Eurostat. Enrichment: scraped city data (students, tourism).
