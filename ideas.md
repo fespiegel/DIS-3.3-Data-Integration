@@ -8,7 +8,7 @@ Hypothesis: the start of spring has shifted over decades, and first bird sightin
 
 Datanases:  
 DWD https://dwd-geoportal.de/ | https://opendata.dwd.de/  
-GovData https://www.govdata.de/  
+GovData (for city specific plans concerning climate) https://www.govdata.de/ 
 
 2. Tourism vs. events. 
 Base: overnight stays from IT.NRW or Destatis.
