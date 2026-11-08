@@ -6,9 +6,9 @@ Enrichment: DWD temperature (March-April mean).
 Key: region (federal state or natural region) and year.
 Hypothesis: the start of spring has shifted over decades, and first bird sightings shift with spring temperature.
 
-Datanases:  
-DWD https://dwd-geoportal.de/ | https://opendata.dwd.de/  
-GovData (for city specific plans concerning climate) https://www.govdata.de/ 
+   Datanases:  
+   DWD https://dwd-geoportal.de/ | https://opendata.dwd.de/  
+   GovData (for city specific plans concerning climate) https://www.govdata.de/ 
 
 2. Tourism vs. events. 
 Base: overnight stays from IT.NRW or Destatis.
@@ -18,7 +18,11 @@ Hypothesis: big events lift hotel stays more than good weather does.
 3. Flight delays vs. weather at German airports. 
 Base: open flight data (check OpenSky’s terms).
 Enrichment: airport weather reports (METAR).
-Hypothesis: wind, fog and snow explain most delays. 
+Hypothesis: wind, fog and snow explain most delays.
+
+   Databases:
+   Euro Control (Flight Data) https://www.eurocontrol.int/ | https://aiu-airport-dashboard.netlify.app/edde#turnaround-times  
+   DWD https://dwd-geoportal.de/ | https://opendata.dwd.de/  
 
 4. Are songs getting shorter? 
 Base: MusicBrainz (CC0) for track lengths and release years.
