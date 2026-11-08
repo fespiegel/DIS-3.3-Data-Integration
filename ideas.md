@@ -34,12 +34,20 @@ Hypothesis: The changing political climate has a big influence on what local mus
    Democratic Index https://ourworldindata.org/grapher/electoral-democracy-index  
    Govdata Election results https://www.govdata.de/  
 
-6. KI und Arbeitslosigkeit	Gibt es einen Zusammenhang zwischen der Verbreitung von KI und der Arbeitslosenquote?	Länder mit einer höheren KI-Nutzungsquote weisen eine niedrigere Arbeitslosenquote auf.
+5. KI und Arbeitslosigkeit	Gibt es einen Zusammenhang zwischen der Verbreitung von KI und der Arbeitslosenquote?	Länder mit einer höheren KI-Nutzungsquote weisen eine niedrigere Arbeitslosenquote auf.
    
-7.  AI and electricity.
+6.  AI and electricity.
 Base: Our World in Data electricity mix or SMARD data.
 Enrichment: data centre locations from OpenStreetMap or Wikidata.
 Key: country or region.
 Hypothesis: regions with many data centres show higher electricity demand growth. Be careful with causal claims here, which is a good limitation to discuss in Q&A.
 
-8. Movies: Ratings vs. budget, genre or release month (IMDb non-commercial datasets plus Wikipedia box-office lists).
+7. Movies: Do big budgets and big names automatically translate to commercial and critical success? Do we still enjoy the blockbuster landscape the MCU created at its peak or has the cinema landscape changed in recent years?
+Enrichment: Box Office Records, IMDB/RT/Letterboxd scores, Academy Awards nominees
+Hypothesis: Has the cinema landscape changed? Do Big Names and Budgets still matter as much as they used to? Can small movies find success? Have our Movie Habits changed?
+
+   Databases:
+   Box Office Records: https://www.boxofficemojo.com/
+   Ratingboards: https://www.imdb.com/ | https://www.rottentomatoes.com/ | https://letterboxd.com/
+   Movie Database: https://www.themoviedb.org/ | https://www.ofdb.de/
+   
