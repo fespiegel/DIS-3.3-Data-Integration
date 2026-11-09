@@ -51,7 +51,7 @@ Hypothesis: regions with many data centres show higher electricity demand growth
    Ember Yearly Electricity Data: https://ember-energy.org/data/yearly-electricity-data/
    https://www.smard.de/en/downloadcenter/download-market-data/
    https://www.cso.ie/en/methods/surveybackgroundnotes/datacentresmeteredelectricityconsumption/
-   
+
 7. Movies: Do big budgets and big names automatically translate to commercial and critical success? Do we still enjoy the blockbuster landscape the MCU created at its peak or has the cinema landscape changed in recent years?
 Enrichment: Box Office Records, IMDB/RT/Letterboxd scores, Academy Awards nominees
 Hypothesis: Has the cinema landscape changed? Do Big Names and Budgets still matter as much as they used to? Can small movies find success? Have our Movie Habits changed?
