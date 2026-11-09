@@ -40,8 +40,12 @@ Hypothesis: The changing political climate has a big influence on what local mus
    Govdata Election results https://www.govdata.de/  
 
 5. KI und Arbeitslosigkeit	Gibt es einen Zusammenhang zwischen der Verbreitung von KI und der Arbeitslosenquote?	Länder mit einer höheren KI-Nutzungsquote weisen eine niedrigere Arbeitslosenquote auf.
-   
-6.  AI and electricity.
+Hypothesis: Zusammenhang zwischen der KI-Nutzung in Unternehmen und der Arbeitslosenquote in den EU-Mitgliedstaaten
+    Databases:
+   (https://ec.europa.eu/eurostat/databrowser/view/isoc_eb_ai/default/table?utm_source=chatgpt.com)
+   (https://ec.europa.eu/eurostat/databrowser/view/une_rt_a/default/table?utm_source=chatgpt.com)
+(Schwierigkeit hier: man kann die beiden Datensätze miteinander verknüpfen aber aussagen, dass die AL-Rate wegen der KI sinkt oder steigt ist zu oberflächlich.)
+7.  AI and electricity.
 Base: Our World in Data electricity mix or SMARD data.
 Enrichment: data centre locations from OpenStreetMap or Wikidata.
 Key: country or region.
