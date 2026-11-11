@@ -45,7 +45,7 @@ Hypothesis: Zusammenhang zwischen der KI-Nutzung in Unternehmen und der Arbeitsl
    (https://ec.europa.eu/eurostat/databrowser/view/isoc_eb_ai/default/table?utm_source=chatgpt.com)
    (https://ec.europa.eu/eurostat/databrowser/view/une_rt_a/default/table?utm_source=chatgpt.com)    
     (Schwierigkeit hier: man kann die beiden Datensätze miteinander verknüpfen aber aussagen, dass die AL-Rate wegen der KI sinkt oder steigt ist zu oberflächlich.)
-7.  AI and electricity.
+6.  AI and electricity.
 Base: Our World in Data electricity mix or SMARD data.
 Enrichment: data centre locations from OpenStreetMap or Wikidata.
 Key: country or region.
@@ -56,7 +56,7 @@ Hypothesis: regions with many data centres show higher electricity demand growth
    https://www.smard.de/en/downloadcenter/download-market-data/
    https://www.cso.ie/en/methods/surveybackgroundnotes/datacentresmeteredelectricityconsumption/
 
-7. Movies: Do big budgets and big names automatically translate to commercial and critical success? Do we still enjoy the blockbuster landscape the MCU created at its peak or has the cinema landscape changed in recent years?
+7. Has cinema gone globa? Origin, reception and commercial success of films since 2000
 Enrichment: Box Office Records, IMDB/RT/Letterboxd scores, Academy Awards nominees
 Hypothesis: Has the cinema landscape changed? Do Big Names and Budgets still matter as much as they used to? Can small movies find success? Have our Movie Habits changed?
 
