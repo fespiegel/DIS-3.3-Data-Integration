@@ -23,9 +23,8 @@ This repository was created as part of the course
   - [x] Forming a team and creating the repository
   - [x] Inviting breuert as collaborator
   - [x] Adding `AI_USAGE.md`
-  - [ ] Formulating research questions and definitions ("Hollywood", "box office", ...)
+  - [x] Formulating research questions and definitions ("Hollywood", "box office", ...)
   - [ ] Selecting data sources and listing the licence of every source
-  - [ ] Choosing the licence for our own dataset and code
   - [ ] Planning the pipeline (Obtain → Scrub → Explore → Model → Interpret) for Milestone 2 & 3
   - [ ] Listing risks and mitigation
   - [x] Adding `LICENSE`
@@ -57,3 +56,8 @@ This repository was created as part of the course
    their share among Oscar nominees and winners changed since 2000?
 3. **Success and reviews:** Is box office performance related to review scores, and does this
    relationship differ between US and non-US films?
+
+## Definitions
+
+
+
