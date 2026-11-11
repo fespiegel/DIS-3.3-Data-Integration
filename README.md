@@ -35,12 +35,12 @@ This repository was created as part of the course
     - [ ] Pipeline prototype (skeleton code) that builds the dataset from raw data
     - [ ] Jupyter notebook in the repository
     - [ ] Documentation: sources and licences, cleaning steps, data dictionary
-    - [ ] Publish dataset online (Zenodo, DOI)
+    - [ ] Publish dataset online (DOI)
     - [ ] Present at the World Café
   - Data-specific tasks (planned, to be adjusted after the dataset check):
-    - [ ] Query Wikidata for films 2000–2025 (SPARQL)
+    - [ ] Query Wikidata for films 2000–2025
     - [ ] Scrape review scores from Wikipedia
-    - [ ] Adjust box office for inflation, map countries to ISO 3166
+    - [ ] Adjust box office for inflation
 - [ ] **Milestone 3 (25.01.27): Presentation (exam)** – analysis, hypothesis tests, visualisations, demo notebook
   - [ ] Data analysis, hypothesis tests and visualisations
   - [ ] Running notebook for the live demo
