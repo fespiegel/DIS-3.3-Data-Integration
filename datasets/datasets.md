@@ -5,3 +5,4 @@
 [TMDB](https://developer.themoviedb.org/reference/getting-started) -> no clear license only attribution instructions as per https://developer.themoviedb.org/docs/faq 
 
 [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page) -> [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) (public domain dedication), no attribution required (checked 11.11.2026)
+- Oscars: [Academy Awards (Q19020)](https://www.wikidata.org/wiki/Q19020) -> nominees and winners per year, same licence (CC0)
