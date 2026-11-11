@@ -24,8 +24,8 @@ This repository was created as part of the course
   - [x] Inviting breuert as collaborator
   - [x] Adding `AI_USAGE.md`
   - [x] Formulating research questions and definitions ("Hollywood", "box office", ...)
-  - [ ] Selecting data sources and listing the licence of every source
-  - [ ] Planning the pipeline (Obtain → Scrub → Explore → Model → Interpret) for Milestone 2 & 3
+  - [x] Selecting data sources and listing the licence of every source
+  - [x] Planning the pipeline (Obtain → Scrub → Explore → Model → Interpret) for Milestone 2 & 3
   - [x] Listing risks and mitigation
   - [x] Adding `LICENSE`
   - [x] Adding `About`
