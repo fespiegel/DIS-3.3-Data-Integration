@@ -7,5 +7,5 @@
 |---|---|
 | Finn Spiegel | [fespiegel](https://github.com/fespiegel) |
 | Marlon Asah | []() |
-| Isra Nitu | []() |
+| Israel Nitu | [1sr4](https://github.com/1sr4) |
 | Jonas Völler | []() |
