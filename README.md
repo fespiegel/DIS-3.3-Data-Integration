@@ -69,8 +69,12 @@ This project also takes the best picture nominees and winners at the academy awa
 
 ## Risks and Mitigations
 
+## Risks and Mitigations
+
 | Risk | Mitigation |
 |---|---|
 | **IMDb terms:** only personal, non-commercial use; no republishing or building a film database; IMDb may withdraw permission at any time ([terms](https://help.imdb.com/article/imdb/general-information/can-i-use-imdb-data-in-my-software/G5JTRESSHJBBHTGX), checked 11.11.2026) | Todo |
-| **Missing budget:** especially for non-US films | We leave budget out and only use box office, because budget is missing for even more films. |
 | **Box office sources:** Box Office Mojo is operated by IMDb, so its [conditions](https://www.boxofficemojo.com/conditions/) refer to the [IMDb Conditions of Use](https://www.imdb.com/conditions), which do not allow scraping of the website (checked 11.11.2026) | Todo |
+| **Missing budget:** especially for non-US films | We leave budget out and only use box office, because budget is missing for too many films. Using it would not give all films the same conditions. |
+
+
