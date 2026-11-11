@@ -1,14 +1,14 @@
 # Cinema-beyond-Hollywood
 
-### Topic
+## Topic
 Has Cinema Gone Global? Origin, Reception and Commercial Success of Films since 2000
 
-### About
+## About
 This repository was created as part of the course
 [DIS3.3 Data Integration](https://github.com/breuert/data-integration)
 (Winter 2026/27, TH Köln) by [breuert](https://github.com/breuert).
 
-### Team
+## Team
 | Name | GitHub |
 |---|---|
 | Finn Spiegel | [fespiegel](https://github.com/fespiegel) |
@@ -59,5 +59,11 @@ This repository was created as part of the course
 
 ## Definitions
 
+**Box Office** - A term used to refer to the revenue any film generates during its theatrical run in $USD. Usually the box office records are reported domestically and those numbers are then tallied up to show how much any given film grossed worldwide.
 
+For our project, domestic box office records refer to the US market (including CA) as reported by BoxOffice Mojo.
+
+**Ratings and Accolades** - Aggregate Rating sites like IMDB, Letterboxd or Rotten Tomatoes allow their users to give any movie they watched a rating. The average, sometimes weighted, rating a film is them calculated by taking all user ratings for any given film on a site into account to create an aggregate user score. Rotten Tomatoes also showcasess a aggregrate score for critic ratings. 
+
+This project also takes the best picture nominees and winners at the academy awards, the OSCARS, into account when evaluating the critical reception of any given film.
 
