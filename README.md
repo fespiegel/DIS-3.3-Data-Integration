@@ -14,7 +14,7 @@ This repository was created as part of the course
 | Finn Spiegel | [fespiegel](https://github.com/fespiegel) |
 | Marlon Asah | [marlonasah](https://github.com/marlonasah) |
 | Israel Nitu | [1sr4](https://github.com/1sr4) |
-| Jonas Völler | []() |
+| Jonas Völler | [Saichiiro2133](https://github.com/Saichiiro2133) |
 
 ## Roadmap
 
