@@ -58,7 +58,7 @@ Hypothesis: regions with many data centres show higher electricity demand growth
 
 7. Has cinema gone globa? Origin, reception and commercial success of films since 2000    
 Enrichment: Box Office Records, IMDB/RT/Letterboxd scores, Academy Awards nominees    
-Hypothesis: Has the cinema landscape changed? Do Big Names and Budgets still matter as much as they used to? Can small movies find success? Have our Movie Habits changed?
+    Hypothesis: Has the cinema landscape changed? Do Big Names and Budgets still matter as much as they used to? Can small movies find success? Have our Movie Habits changed?
 
    Databases:  
    Box Office Records: https://www.boxofficemojo.com/  
