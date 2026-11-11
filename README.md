@@ -29,7 +29,7 @@ This repository was created as part of the course
   - [ ] Planning the pipeline (Obtain → Scrub → Explore → Model → Interpret) for Milestone 2 & 3
   - [ ] Listing risks and mitigation
   - [x] Adding `LICENSE`
-  - [ ] Adding `About`
+  - [x] Adding `About`
   - [ ] Sending e-mail to breuert: project name, full names, student IDs and GitHub handles of all members
 - [ ] **Milestone 2 (18.12.26): Dataset** – enriched dataset, pipeline prototype, documentation (presented at the World Café, +10 bonus points)
   - Fixed deliverables:
