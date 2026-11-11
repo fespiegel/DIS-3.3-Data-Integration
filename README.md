@@ -69,8 +69,6 @@ This project also takes the best picture nominees and winners at the academy awa
 
 ## Risks and Mitigations
 
-## Risks and Mitigations
-
 | Risk | Mitigation |
 |---|---|
 | **IMDb terms:** only personal, non-commercial use; no republishing or building a film database; IMDb may withdraw permission at any time ([terms](https://help.imdb.com/article/imdb/general-information/can-i-use-imdb-data-in-my-software/G5JTRESSHJBBHTGX), checked 11.11.2026) | Todo |
