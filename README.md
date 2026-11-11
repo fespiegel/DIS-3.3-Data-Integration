@@ -48,3 +48,12 @@ This repository was created as part of the course
   - [ ] Slides
   - [ ] Project documentation in the repository
   - [ ] Final repository state before the deadline (22.01.27, 23:59 – to be confirmed)
+     
+## Research Questions
+
+1. **Globalization:** Has the share of non-US films among the top-grossing films of each year
+   increased between 2000 and 2025?
+2. **Recognition:** Are non-US films rated differently than US films (Rotten Tomatoes, IMDb), and has
+   their share among Oscar nominees and winners changed since 2000?
+3. **Success and reviews:** Is box office performance related to review scores, and does this
+   relationship differ between US and non-US films?
