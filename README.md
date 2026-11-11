@@ -6,6 +6,6 @@
 | Name | GitHub |
 |---|---|
 | Finn Spiegel | [fespiegel](https://github.com/fespiegel) |
-| Marlon Asah | []() |
+| Marlon Asah | [marlonasah](https://github.com/marlonasah) |
 | Israel Nitu | [1sr4](https://github.com/1sr4) |
 | Jonas Völler | []() |
