@@ -26,7 +26,7 @@ This repository was created as part of the course
   - [x] Formulating research questions and definitions ("Hollywood", "box office", ...)
   - [ ] Selecting data sources and listing the licence of every source
   - [ ] Planning the pipeline (Obtain → Scrub → Explore → Model → Interpret) for Milestone 2 & 3
-  - [ ] Listing risks and mitigation
+  - [x] Listing risks and mitigation
   - [x] Adding `LICENSE`
   - [x] Adding `About`
   - [ ] Sending e-mail to breuert: project name, full names, student IDs and GitHub handles of all members
