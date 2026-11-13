@@ -18,7 +18,7 @@ This repository was created as part of the course
 
 ## Roadmap
 
-- [ ] **Milestone 1 (13.11.26): Roadmap** – topic, datasets with licences, research questions, plan
+- [x] **Milestone 1 (13.11.26): Roadmap** – topic, datasets with licences, research questions, plan
   - [x] Finding a topic that suits the task (see [ideas.md](https://github.com/fespiegel/DIS-3.3-Data-Integration/blob/main/ideas.md) for the ideas we considered)
   - [x] Forming a team and creating the repository
   - [x] Inviting breuert as collaborator
@@ -29,7 +29,7 @@ This repository was created as part of the course
   - [x] Listing risks and mitigation
   - [x] Adding `LICENSE`
   - [x] Adding `About`
-  - [ ] Sending e-mail to breuert: project name, full names, student IDs and GitHub handles of all members
+  - [x] Sending e-mail to breuert: project name, full names, student IDs and GitHub handles of all members
 - [ ] **Milestone 2 (18.12.26): Dataset** – enriched dataset, pipeline prototype, documentation (presented at the World Café, +10 bonus points)
   - Fixed deliverables:
     - [ ] Pipeline prototype (skeleton code) that builds the dataset from raw data
