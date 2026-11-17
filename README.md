@@ -18,6 +18,8 @@ This repository was created as part of the course
 
 ## Roadmap
 
+Link to our [Kanbanboard](https://github.com/users/fespiegel/projects/1)
+
 - [x] **Milestone 1 (13.11.26): Roadmap** – topic, datasets with licences, research questions, plan
   - [x] Finding a topic that suits the task (see [ideas.md](https://github.com/fespiegel/DIS-3.3-Data-Integration/blob/main/ideas.md) for the ideas we considered)
   - [x] Forming a team and creating the repository
